@@ -6,3 +6,4 @@ Add your name to the list below:
 * Cassie K. 
 * Kimberly C.
 * Alex Ayon
+* Reed Ellard
