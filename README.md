@@ -10,4 +10,4 @@ Add your name to the list below:
 * Kimberly C.
 * Alex Ayon
 * Reed Ellard
-* Galadriel A.L. Thompson
+* Galadriel A.L. Thompson 
