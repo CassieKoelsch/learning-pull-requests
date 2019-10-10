@@ -11,4 +11,6 @@ Add your name to the list below:
 * Alex Ayon
 * Reed Ellard
 * Galadriel A.L. Thompson 
-*Marissa Stinson is cool
+* Marissa Stinson is cool
+* Wren Summerset 4
+* Jessica Mills jm
