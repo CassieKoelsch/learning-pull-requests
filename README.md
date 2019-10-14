@@ -17,3 +17,4 @@ Add your name to the list below:
 * Jessica Mills jm
 * April Cook
 * Bri Weathers
+* Sequoyah Roberts
