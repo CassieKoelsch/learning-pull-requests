@@ -18,3 +18,4 @@ Add your name to the list below:
 * April Cook
 * Bri Weathers
 * Vivian Tse
+* Daniel Fieker
