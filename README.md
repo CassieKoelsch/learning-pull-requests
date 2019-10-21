@@ -20,3 +20,4 @@ Add your name to the list below:
 * Bri Weathers
 * Vivian Tse
 * Daniel Fieker
+* Sarah George
