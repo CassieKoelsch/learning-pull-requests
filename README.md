@@ -22,3 +22,5 @@ Add your name to the list below:
 * Vivian Tse
 * Daniel Fieker
 * Sarah George
+* [Charlie Rogers](https://www.mister-rogers.com) 
+
