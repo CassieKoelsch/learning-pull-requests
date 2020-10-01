@@ -11,6 +11,7 @@ Add your name to the list below:
 * Alex Ayon
 * Reed Ellard
 * Galadriel A.L. Thompson 
+* Rose Iguado G
 * Marlen B.
 * QD  C.
 * Marissa Stinson is cool
@@ -22,3 +23,4 @@ Add your name to the list below:
 * Daniel Fieker
 * Sarah George
 * [Charlie Rogers](https://www.mister-rogers.com) 
+
