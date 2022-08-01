@@ -24,4 +24,4 @@ Add your name to the list below:
 * Sarah George
 * [Charlie Rogers](https://www.mister-rogers.com) 
 * Mikayla Johnson
-* Jesse Heath [heathology](https://github.com/heathology)
+* Jesse L. Heath [heathology](https://github.com/heathology)
