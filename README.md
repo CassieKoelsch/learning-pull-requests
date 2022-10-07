@@ -29,3 +29,4 @@ Add your name to the list below:
 * [Jake Fellwock](https://www.github.com/jakefellwock/)
 * Evelyn Valles
 * [Layla Krauss](https://github.com/laylark)
+* [Olivier Gilquin](https://github.com/Olivier-OG)
